@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:ex/ui/secondpage.dart';
+import 'package:ex/ui/weatherInfoPage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
